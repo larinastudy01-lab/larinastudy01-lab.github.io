@@ -1,0 +1,12 @@
+{
+  "id": "/",
+  "name": "OneDay｜個人生活整合管理平台",
+  "short_name": "OneDay",
+  "lang": "zh-TW",
+  "start_url": "/app/today",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#FAF8F4",
+  "icons": [{ "src": "/oneday-logo.webp", "sizes": "any", "type": "image/webp", "purpose": "any" }]
+}

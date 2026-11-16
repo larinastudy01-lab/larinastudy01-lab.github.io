@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-ByCv11oh.js";var t=e(),n={achieved:`達成目標`,partial:`部分達成`,missed:`未達成目標`,"no-data":`尚無資料`};function r({status:e}){return(0,t.jsxs)(`span`,{className:`status-badge status-${e}`,children:[(0,t.jsx)(`i`,{}),n[e]]})}export{r as t};
